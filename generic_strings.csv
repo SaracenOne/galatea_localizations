@@ -19,7 +19,7 @@ SYSTEM_USE,Autoread,Automatyczne przewijanie
 SYSTEM_USE,Use,Użyj
 SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?
 SYSTEM_CONFIRM,Confirm,Potwierdź
-,
+,,
 STAT_FIRST_NAME,First Name,Imię
 STAT_SURNAME,Surname,Nazwisko
 STAT_NICKNAME,Nickname,Przezwisko
@@ -36,7 +36,7 @@ STAT_SENSITIVITY,Sensitivity,Wrażliwość
 STAT_MONEY,Money,Pieniądze
 STAT_STAMINA,Stamina,Wytrzymałość
 STAT_LUCK,Luck,Szczęście
-,
+,,
 BLOODTYPE_A,A,A
 BLOODTYPE_B,B,B
 BLOODTYPE_AB,AB,AB
@@ -49,10 +49,10 @@ STAT_GENDER,Gender,Płeć
 STAT_AGE,Age,Wiek
 STAT_BLOODTYPE,Bloodtype,Grupa krwi
 STAT_DOB,Date of Birth,Data urodzenia
-,
+,,
 GENDER_MALE,Male,Mężczyzna
 GENDER_FEMALE,Female,Kobieta
-,
+,,
 PHONE_PROVIDER_BNET,bNet,bNet
 PHONE_APP_SETTINGS,Settings,Ustawienia
 PHONE_APP_PHONE,Phone,Telefon
