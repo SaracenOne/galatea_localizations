@@ -1,72 +1,72 @@
-id,en
-SYSTEM_NEW_GAME,Begin
-SYSTEM_CONTINUE,Continue
-SYSTEM_LOAD,Load
-SYSTEM_SAVE,Save
-SYSTEM_OPTIONS,Options
-SYSTEM_EXTRAS,Extras
-SYSTEM_CREDITS,Credits
-SYSTEM_QUIT,Quit
-SYSTEM_LOADING,Loading
-SYSTEM_YES,Yes
-SYSTEM_NO,No
-SYSTEM_OKAY,Okay
-SYSTEM_CANCEL,Cancel
-SYSTEM_CONTINUE,Continue
-SYSTEM_SKIP,Skip
-SYSTEM_LOG,Log
-SYSTEM_USE,Autoread
-SYSTEM_USE,Use
-SYSTEM_QUITMESSAGE,Are you sure you want to quit?
-SYSTEM_CONFIRM,Confirm
+id,en,pl
+SYSTEM_NEW_GAME,Begin,Rozpocznij
+SYSTEM_CONTINUE,Continue,Kontynuuj
+SYSTEM_LOAD,Load,Wczytaj grę
+SYSTEM_SAVE,Save,Zapisz grę
+SYSTEM_OPTIONS,Options,Ustawienia
+SYSTEM_EXTRAS,Extras,Dodatki
+SYSTEM_CREDITS,Credits,Autorzy
+SYSTEM_QUIT,Quit,Wyjdź
+SYSTEM_LOADING,Loading,Wczytywanie
+SYSTEM_YES,Yes,Tak
+SYSTEM_NO,No,Nie
+SYSTEM_OKAY,Okay,OK
+SYSTEM_CANCEL,Cancel,Anuluj
+SYSTEM_CONTINUE,Continue,Kontynuuj
+SYSTEM_SKIP,Skip,Pomiń
+SYSTEM_LOG,Log,Historia
+SYSTEM_USE,Autoread,Automatyczne przewijanie
+SYSTEM_USE,Use,Użyj
+SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?
+SYSTEM_CONFIRM,Confirm,Potwierdź
 ,
-STAT_FIRST_NAME,First Name
-STAT_SURNAME,Surname
-STAT_NICKNAME,Nickname
-STAT_GENDER,Gender
-STAT_AGE,Age
-STAT_BLOODTYPE,Bloodtype
-STAT_DOB,Date of Birth
-STAT_STRESS,Stress
-STAT_CREATIVITY,Creativity
-STAT_INTELLIGENCE,Intelligence
-STAT_FITNESS,Fitness
-STAT_CHARM,Charm
-STAT_SENSITIVITY,Sensitivity
-STAT_MONEY,Money
-STAT_STAMINA,Stamina
-STAT_LUCK,Luck
+STAT_FIRST_NAME,First Name,Imię
+STAT_SURNAME,Surname,Nazwisko
+STAT_NICKNAME,Nickname,Przezwisko
+STAT_GENDER,Gender,Płeć
+STAT_AGE,Age,Wiek
+STAT_BLOODTYPE,Bloodtype,Grupa krwi
+STAT_DOB,Date of Birth,Data urodzenia
+STAT_STRESS,Stress,Stres
+STAT_CREATIVITY,Creativity,Kreatywność
+STAT_INTELLIGENCE,Intelligence,Inteligencja
+STAT_FITNESS,Fitness,Kondycja
+STAT_CHARM,Charm,Wdzięk
+STAT_SENSITIVITY,Sensitivity,Wrażliwość
+STAT_MONEY,Money,Pieniądze
+STAT_STAMINA,Stamina,Wytrzymałość
+STAT_LUCK,Luck,Szczęście
 ,
-BLOODTYPE_A,A
-BLOODTYPE_B,B
-BLOODTYPE_AB,AB
-BLOODTYPE_O,O
-STAT_FIRST_NAME,First Name
-STAT_LAST_NAME,Last Name
-STAT_SURNAME,Surname
-STAT_NICKNAME,Nickname
-STAT_GENDER,Gender
-STAT_AGE,Age
-STAT_BLOODTYPE,Bloodtype
-STAT_DOB,Date of Birth
+BLOODTYPE_A,A,A
+BLOODTYPE_B,B,B
+BLOODTYPE_AB,AB,AB
+BLOODTYPE_O,O,0
+STAT_FIRST_NAME,First Name,Imię
+STAT_LAST_NAME,Last Name,Nazwisko
+STAT_SURNAME,Surname,Nazwisko
+STAT_NICKNAME,Nickname,Przezwisko
+STAT_GENDER,Gender,Płeć
+STAT_AGE,Age,Wiek
+STAT_BLOODTYPE,Bloodtype,Grupa krwi
+STAT_DOB,Date of Birth,Data urodzenia
 ,
-GENDER_MALE,Male
-GENDER_FEMALE,Female
+GENDER_MALE,Male,Mężczyzna
+GENDER_FEMALE,Female,Kobieta
 ,
-PHONE_PROVIDER_BNET,bNet
-PHONE_APP_SETTINGS,Settings
-PHONE_APP_PHONE,Phone
-PHONE_APP_CONTACTS,Contacts
-PHONE_APP_CAMERA,Camera
-PHONE_APP_CALENDER,Calender
-PHONE_APP_CLOCK,Clock
-PHONE_APP_DOWNLOAD,Download
-PHONE_APP_GALLERY,Gallery
-PHONE_APP_MAP,Map
-PHONE_APP_MUSIC,Music
-PHONE_APP_SMS,SMS
-PHONE_APP_EMAIL,Email
-PHONE_APP_INFO,Info
-PHONE_APP_INVENTORY,Inventory
-PHONE_APP_INTERNET,Internet
-PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...
+PHONE_PROVIDER_BNET,bNet,bNet
+PHONE_APP_SETTINGS,Settings,Ustawienia
+PHONE_APP_PHONE,Phone,Telefon
+PHONE_APP_CONTACTS,Contacts,Kontakty
+PHONE_APP_CAMERA,Camera,Aparat
+PHONE_APP_CALENDER,Calender,Kalendarz
+PHONE_APP_CLOCK,Clock,Zegar
+PHONE_APP_DOWNLOAD,Download,Pobrane
+PHONE_APP_GALLERY,Gallery,Galeria
+PHONE_APP_MAP,Map,Mapa
+PHONE_APP_MUSIC,Music,Muzyka
+PHONE_APP_SMS,SMS,Wiadomości
+PHONE_APP_EMAIL,Email,Poczta
+PHONE_APP_INFO,Info,Informacje
+PHONE_APP_INVENTORY,Inventory,Ekwipunek
+PHONE_APP_INTERNET,Internet,Internet
+PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...
