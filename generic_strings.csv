@@ -1,65 +1,65 @@
-,,,
-id,en,pl,fr
-SYSTEM_NEW_GAME,Begin,Rozpocznij,Commencer
-SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer
-SYSTEM_LOAD,Load,Wczytaj grę,Charger
-SYSTEM_SAVE,Save,Zapisz grę,Sauvegarder
-SYSTEM_OPTIONS,Options,Ustawienia,Options
-SYSTEM_EXTRAS,Extras,Dodatki,Extras
-SYSTEM_CREDITS,Credits,Autorzy,Crédits
-SYSTEM_QUIT,Quit,Wyjdź,Quitter
-SYSTEM_LOADING,Loading,Wczytywanie,Chargement
-SYSTEM_YES,Yes,Tak,Oui
-SYSTEM_NO,No,Nie,Non
-SYSTEM_OKAY,Okay,OK,OK
-SYSTEM_CANCEL,Cancel,Anuluj,Annuler
-SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer
-SYSTEM_SKIP,Skip,Pomiń,Passer
-SYSTEM_LOG,Log,Historia,Log
-SYSTEM_USE,Autoread,Automatyczne przewijanie,Lecture automatique
-SYSTEM_USE,Use,Użyj,Utiliser
-SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?
-SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer
-,,,
-STAT_FIRST_NAME,First Name,Imię,Prénom
-STAT_SURNAME,Surname,Nazwisko,Nom de famille
-STAT_NICKNAME,Nickname,Przezwisko,Surnom
-STAT_GENDER,Gender,Płeć,Sexe
-STAT_AGE,Age,Wiek,Âge
-STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin
-STAT_DOB,Date of Birth,Data urodzenia,Date de naissance
-STAT_STRESS,Stress,Stres,Stress
-STAT_CREATIVITY,Creativity,Kreatywność,Créativité
-STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence
-STAT_FITNESS,Fitness,Kondycja,Fitness
-STAT_CHARM,Charm,Wdzięk,Charme
-STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité
-STAT_MONEY,Money,Pieniądze,Argent
-STAT_STAMINA,Stamina,Wytrzymałość,Endurance
-STAT_LUCK,Luck,Szczęście,Chance
-,,,
-BLOODTYPE_A,A,A,A
-BLOODTYPE_B,B,B,B
-BLOODTYPE_AB,AB,AB,AB
-BLOODTYPE_O,O,O,O
-,,,
-GENDER_MALE,Male,Mężczyzna,Masculin
-GENDER_FEMALE,Female,Kobieta,Féminin
-,,,
-PHONE_PROVIDER_BNET,bNet,bNet,bNet
-PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres
-PHONE_APP_PHONE,Phone,Telefon,Téléphone
-PHONE_APP_CONTACTS,Contacts,Kontakty,Contacts
-PHONE_APP_CAMERA,Camera,Aparat,Camera
-PHONE_APP_CALENDER,Calender,Kalendarz,Calendrier
-PHONE_APP_CLOCK,Clock,Zegar,Horloge
-PHONE_APP_DOWNLOAD,Download,Pobrane,Téléchargements
-PHONE_APP_GALLERY,Gallery,Galeria,Galerie
-PHONE_APP_MAP,Map,Mapa,Carte
-PHONE_APP_MUSIC,Music,Muzyka,Musique
-PHONE_APP_SMS,SMS,Wiadomości,SMS
-PHONE_APP_EMAIL,Email,Poczta,Email
-PHONE_APP_INFO,Info,Informacje,Info
-PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire
-PHONE_APP_INTERNET,Internet,Internet,Internet
-PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...
+,,,,
+id,en,pl,fr,
+SYSTEM_NEW_GAME,Begin,Rozpocznij,Commencer,Начать игру
+SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить
+SYSTEM_LOAD,Load,Wczytaj grę,Charger,Загрузить
+SYSTEM_SAVE,Save,Zapisz grę,Sauvegarder,Сохранить
+SYSTEM_OPTIONS,Options,Ustawienia,Options,Настройки
+SYSTEM_EXTRAS,Extras,Dodatki,Extras,Дополнительно
+SYSTEM_CREDITS,Credits,Autorzy,Crédits,Авторы
+SYSTEM_QUIT,Quit,Wyjdź,Quitter,Выйти
+SYSTEM_LOADING,Loading,Wczytywanie,Chargement,Загрузка
+SYSTEM_YES,Yes,Tak,Oui,Да
+SYSTEM_NO,No,Nie,Non,Нет
+SYSTEM_OKAY,Okay,OK,OK,Хорошо
+SYSTEM_CANCEL,Cancel,Anuluj,Annuler,Отменить
+SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить
+SYSTEM_SKIP,Skip,Pomiń,Passer,Пропустить
+SYSTEM_LOG,Log,Historia,Log,Журнал
+SYSTEM_USE,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка
+SYSTEM_USE,Use,Użyj,Utiliser,Использовать
+SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?, что хотите выйти?
+SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить
+,,,,
+STAT_FIRST_NAME,First Name,Imię,Prénom,Имя
+STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия
+STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище
+STAT_GENDER,Gender,Płeć,Sexe,Пол
+STAT_AGE,Age,Wiek,Âge,Возраст
+STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin,Группа крови
+STAT_DOB,Date of Birth,Data urodzenia,Date de naissance,Дата рождения
+STAT_STRESS,Stress,Stres,Stress,Напряжённость
+STAT_CREATIVITY,Creativity,Kreatywność,Créativité,Креативность
+STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence,Интеллект
+STAT_FITNESS,Fitness,Kondycja,Fitness,Спортивность
+STAT_CHARM,Charm,Wdzięk,Charme,Обаяние
+STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité,Чувствительность
+STAT_MONEY,Money,Pieniądze,Argent,Деньги
+STAT_STAMINA,Stamina,Wytrzymałość,Endurance,Выносливость
+STAT_LUCK,Luck,Szczęście,Chance,Удача
+,,,,
+BLOODTYPE_A,A,A,A,A
+BLOODTYPE_B,B,B,B,B
+BLOODTYPE_AB,AB,AB,AB,AB
+BLOODTYPE_O,O,O,O,O
+,,,,
+GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина
+GENDER_FEMALE,Female,Kobieta,Féminin,Женщина
+,,,,
+PHONE_PROVIDER_BNET,bNet,bNet,bNet,bNet
+PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres,Настройки
+PHONE_APP_PHONE,Phone,Telefon,Téléphone,Телефон
+PHONE_APP_CONTACTS,Contacts,Kontakty,Contacts,Контакты
+PHONE_APP_CAMERA,Camera,Aparat,Camera,Камера
+PHONE_APP_CALENDER,Calender,Kalendarz,Calendrier,Календарь
+PHONE_APP_CLOCK,Clock,Zegar,Horloge,Часы
+PHONE_APP_DOWNLOAD,Download,Pobrane,Téléchargements,Загрузки
+PHONE_APP_GALLERY,Gallery,Galeria,Galerie,Галерея
+PHONE_APP_MAP,Map,Mapa,Carte,Карта
+PHONE_APP_MUSIC,Music,Muzyka,Musique,Музыка
+PHONE_APP_SMS,SMS,Wiadomości,SMS,СМС
+PHONE_APP_EMAIL,Email,Poczta,Email,Почта
+PHONE_APP_INFO,Info,Informacje,Info,Информация
+PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь
+PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет
+PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…
