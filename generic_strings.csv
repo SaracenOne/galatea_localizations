@@ -16,9 +16,9 @@ SYSTEM_CANCEL,Cancel,Anuluj,Annuler,Отменить
 SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить
 SYSTEM_SKIP,Skip,Pomiń,Passer,Пропустить
 SYSTEM_LOG,Log,Historia,Log,Журнал
-SYSTEM_USE,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка
+SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка
 SYSTEM_USE,Use,Użyj,Utiliser,Использовать
-SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?, что хотите выйти?
+SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?
 SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить
 ,,,,
 STAT_FIRST_NAME,First Name,Imię,Prénom,Имя
