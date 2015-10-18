@@ -19,7 +19,7 @@ SYSTEM_USE,Autoread,Lecture automatique
 SYSTEM_USE,Use,Utiliser
 SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Es-tu sur de vouloir quitter?
 SYSTEM_CONFIRM,Confirm,Confirmer
-,
+,,
 STAT_FIRST_NAME,First Name,Prénom
 STAT_SURNAME,Surname,Nom de famille
 STAT_NICKNAME,Nickname,Surnom
@@ -36,11 +36,11 @@ STAT_SENSITIVITY,Sensitivity,Sensibilité
 STAT_MONEY,Money,Argent
 STAT_STAMINA,Stamina,Endurance
 STAT_LUCK,Luck,Chance
-,
-BLOODTYPE_A,A
-BLOODTYPE_B,B
-BLOODTYPE_AB,AB
-BLOODTYPE_O,O
+,,
+BLOODTYPE_A,A,A
+BLOODTYPE_B,B,B
+BLOODTYPE_AB,AB,AB
+BLOODTYPE_O,O,O
 STAT_FIRST_NAME,First Name,Prénom
 STAT_LAST_NAME,Last Name,Nom de famille
 STAT_SURNAME,Surname,Nom de famille
@@ -49,10 +49,10 @@ STAT_GENDER,Gender,Sexe
 STAT_AGE,Age,Âge
 STAT_BLOODTYPE,Bloodtype,Groupe sanguin
 STAT_DOB,Date of Birth,Date de naissance
-,
+,,
 GENDER_MALE,Male,Masculin
 GENDER_FEMALE,Female,Féminin
-,
+,,
 PHONE_PROVIDER_BNET,bNet,bNet
 PHONE_APP_SETTINGS,Settings,Paramètres
 PHONE_APP_PHONE,Phone,Téléphone
