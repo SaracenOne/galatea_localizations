@@ -1,64 +1,64 @@
-id,en,pl,fr,ru,ger
-SYSTEM_NEW_GAME,Begin,Rozpocznij,Commencer,Начать игру,Neues Spiel
-SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen
-SYSTEM_LOAD,Load,Wczytaj grę,Charger,Загрузить,Laden
-SYSTEM_SAVE,Save,Zapisz grę,Sauvegarder,Сохранить,Speichern
-SYSTEM_OPTIONS,Options,Ustawienia,Options,Настройки,Optionen
-SYSTEM_EXTRAS,Extras,Dodatki,Extras,Дополнительно,Extras
-SYSTEM_CREDITS,Credits,Autorzy,Crédits,Авторы,Credits
-SYSTEM_QUIT,Quit,Wyjdź,Quitter,Выйти,Beenden
-SYSTEM_LOADING,Loading,Wczytywanie,Chargement,Загрузка,Ladevorgang
-SYSTEM_YES,Yes,Tak,Oui,Да,Ja
-SYSTEM_NO,No,Nie,Non,Нет,Nein
-SYSTEM_OKAY,Okay,OK,OK,Хорошо,Okay
-SYSTEM_CANCEL,Cancel,Anuluj,Annuler,Отменить,Abbrechen
-SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen
-SYSTEM_SKIP,Skip,Pomiń,Passer,Пропустить,Überspringen
-SYSTEM_LOG,Log,Historia,Log,Журнал,Journal
-SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка,Autolesen
-SYSTEM_USE,Use,Użyj,Utiliser,Использовать,Benutzen
-SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?,Bist du sicher dass du das Spiel Beenden willst?
-SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить,Bestätigen
-,,,,,
-STAT_FIRST_NAME,First Name,Imię,Prénom,Имя,Vorname
-STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия,Nachname
-STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище,Spitzname
-STAT_GENDER,Gender,Płeć,Sexe,Пол,Geschlecht
-STAT_AGE,Age,Wiek,Âge,Возраст,Alter
-STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin,Группа крови,Blutgruppe
-STAT_DOB,Date of Birth,Data urodzenia,Date de naissance,Дата рождения,Geburtsdatum
-STAT_STRESS,Stress,Stres,Stress,Напряжённость,Mentale Stärke
-STAT_CREATIVITY,Creativity,Kreatywność,Créativité,Креативность,Kreativität
-STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence,Интеллект,Intelligenz
-STAT_FITNESS,Fitness,Kondycja,Fitness,Спортивность,Gesundheit
-STAT_CHARM,Charm,Wdzięk,Charme,Обаяние,Charme
-STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité,Чувствительность,Sensibilität
-STAT_MONEY,Money,Pieniądze,Argent,Деньги,Geld
-STAT_STAMINA,Stamina,Wytrzymałość,Endurance,Выносливость,Ausdauer
-STAT_LUCK,Luck,Szczęście,Chance,Удача,Glück
-,,,,,
-BLOODTYPE_A,A,A,A,A,A
-BLOODTYPE_B,B,B,B,B,B
-BLOODTYPE_AB,AB,AB,AB,AB,AB
-BLOODTYPE_O,O,O,O,O,O
-,,,,,
-GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина,Männlich
-GENDER_FEMALE,Female,Kobieta,Féminin,Женщина,Weiblich
-,,,,,
-PHONE_PROVIDER_BNET,bNet,bNet,bNet,bNet,bNet
-PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres,Настройки,Einstellungen
-PHONE_APP_PHONE,Phone,Telefon,Téléphone,Телефон,Handy
-PHONE_APP_CONTACTS,Contacts,Kontakty,Contacts,Контакты,Kontakte
-PHONE_APP_CAMERA,Camera,Aparat,Camera,Камера,Kamera
-PHONE_APP_CALENDER,Calender,Kalendarz,Calendrier,Календарь,Kalender
-PHONE_APP_CLOCK,Clock,Zegar,Horloge,Часы,Uhr
-PHONE_APP_DOWNLOAD,Download,Pobrane,Téléchargements,Загрузки,Download
-PHONE_APP_GALLERY,Gallery,Galeria,Galerie,Галерея,Gallerie
-PHONE_APP_MAP,Map,Mapa,Carte,Карта,Karte
-PHONE_APP_MUSIC,Music,Muzyka,Musique,Музыка,Musik
-PHONE_APP_SMS,SMS,Wiadomości,SMS,СМС,SMS
-PHONE_APP_EMAIL,Email,Poczta,Email,Почта,Email
-PHONE_APP_INFO,Info,Informacje,Info,Информация,Info
-PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь,Inventar
-PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет,Internet
-PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…,Noch nicht Verfügbar
+id,en,pl,fr,ru,ger,ita
+SYSTEM_NEW_GAME,Begin,Rozpocznij,Commencer,Начать игру,Neues Spiel,Inizia
+SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen,Continua
+SYSTEM_LOAD,Load,Wczytaj grę,Charger,Загрузить,Laden,Carica
+SYSTEM_SAVE,Save,Zapisz grę,Sauvegarder,Сохранить,Speichern,Salva
+SYSTEM_OPTIONS,Options,Ustawienia,Options,Настройки,Optionen,Opzioni
+SYSTEM_EXTRAS,Extras,Dodatki,Extras,Дополнительно,Extras,Extra
+SYSTEM_CREDITS,Credits,Autorzy,Crédits,Авторы,Credits,Crediti
+SYSTEM_QUIT,Quit,Wyjdź,Quitter,Выйти,Beenden,Esci
+SYSTEM_LOADING,Loading,Wczytywanie,Chargement,Загрузка,Ladevorgang,Caricamento
+SYSTEM_YES,Yes,Tak,Oui,Да,Ja,Si
+SYSTEM_NO,No,Nie,Non,Нет,Nein,No
+SYSTEM_OKAY,Okay,OK,OK,Хорошо,Okay,Ok
+SYSTEM_CANCEL,Cancel,Anuluj,Annuler,Отменить,Abbrechen,Annulla
+SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen,Continua
+SYSTEM_SKIP,Skip,Pomiń,Passer,Пропустить,Überspringen,Salta
+SYSTEM_LOG,Log,Historia,Log,Журнал,Journal,Storico
+SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка,Autolesen,Autolettura
+SYSTEM_USE,Use,Użyj,Utiliser,Использовать,Benutzen,Usa
+SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?,Bist du sicher dass du das Spiel Beenden willst?,Sei sicuro di voler uscire?
+SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить,Bestätigen,Conferma
+,,,,,,
+STAT_FIRST_NAME,First Name,Imię,Prénom,Имя,Vorname,Nome
+STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия,Nachname,Cognome
+STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище,Spitzname,Soprannome
+STAT_GENDER,Gender,Płeć,Sexe,Пол,Geschlecht,Sesso
+STAT_AGE,Age,Wiek,Âge,Возраст,Alter,Et??
+STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin,Группа крови,Blutgruppe,Gruppo sanguigno
+STAT_DOB,Date of Birth,Data urodzenia,Date de naissance,Дата рождения,Geburtsdatum,Data di nascita
+STAT_STRESS,Stress,Stres,Stress,Напряжённость,Mentale Stärke,Stato Mentale
+STAT_CREATIVITY,Creativity,Kreatywność,Créativité,Креативность,Kreativität,Creativit??
+STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence,Интеллект,Intelligenz,Intelligenza
+STAT_FITNESS,Fitness,Kondycja,Fitness,Спортивность,Gesundheit,Forma fisica
+STAT_CHARM,Charm,Wdzięk,Charme,Обаяние,Charme,Fascino
+STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité,Чувствительность,Sensibilität,Sensibilit??
+STAT_MONEY,Money,Pieniądze,Argent,Деньги,Geld,Soldi
+STAT_STAMINA,Stamina,Wytrzymałość,Endurance,Выносливость,Ausdauer,Resistenza fisica
+STAT_LUCK,Luck,Szczęście,Chance,Удача,Glück,Fortuna
+,,,,,,
+BLOODTYPE_A,A,A,A,A,A,A
+BLOODTYPE_B,B,B,B,B,B,B
+BLOODTYPE_AB,AB,AB,AB,AB,AB,AB
+BLOODTYPE_O,O,O,O,O,O,O
+,,,,,,
+GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина,Männlich,Maschio
+GENDER_FEMALE,Female,Kobieta,Féminin,Женщина,Weiblich,Femmina
+,,,,,,
+PHONE_PROVIDER_BNET,bNet,bNet,bNet,bNet,bNet,bNet
+PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres,Настройки,Einstellungen,Impostazioni
+PHONE_APP_PHONE,Phone,Telefon,Téléphone,Телефон,Handy,Telefono
+PHONE_APP_CONTACTS,Contacts,Kontakty,Contacts,Контакты,Kontakte,Contatti
+PHONE_APP_CAMERA,Camera,Aparat,Camera,Камера,Kamera,Fotocamera
+PHONE_APP_CALENDER,Calender,Kalendarz,Calendrier,Календарь,Kalender,Calendario
+PHONE_APP_CLOCK,Clock,Zegar,Horloge,Часы,Uhr,Orologio
+PHONE_APP_DOWNLOAD,Download,Pobrane,Téléchargements,Загрузки,Download,Download
+PHONE_APP_GALLERY,Gallery,Galeria,Galerie,Галерея,Gallerie,Galleria
+PHONE_APP_MAP,Map,Mapa,Carte,Карта,Karte,Mappa
+PHONE_APP_MUSIC,Music,Muzyka,Musique,Музыка,Musik,Musica
+PHONE_APP_SMS,SMS,Wiadomości,SMS,СМС,SMS,SMS
+PHONE_APP_EMAIL,Email,Poczta,Email,Почта,Email,Email
+PHONE_APP_INFO,Info,Informacje,Info,Информация,Info,Informazioni
+PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь,Inventar,Inventario
+PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет,Internet,Internet
+PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…,Noch nicht Verfügbar,Non ancora implementato...
