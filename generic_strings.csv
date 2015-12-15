@@ -27,7 +27,7 @@ STAT_GENDER,Gender,Płeć,Sexe,Пол,Geschlecht,Sesso,Genero
 STAT_AGE,Age,Wiek,Âge,Возраст,Alter,Et??,Edad
 STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin,Группа крови,Blutgruppe,Gruppo sanguigno,Tipo de sangre
 STAT_DOB,Date of Birth,Data urodzenia,Date de naissance,Дата рождения,Geburtsdatum,Data di nascita,Fecha de nacimiento
-STAT_STRESS,Stress,Stres,Stress,Напряжённость,Mentale Stärke,Stato Mentale,Estres
+STAT_STRESS,Stress,Stres,Stress,Напряжённость,Stress,Stato Mentale,Estres
 STAT_CREATIVITY,Creativity,Kreatywność,Créativité,Креативность,Kreativität,Creativit??,Creatividad
 STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence,Интеллект,Intelligenz,Intelligenza,Inteligencia
 STAT_FITNESS,Fitness,Kondycja,Fitness,Спортивность,Gesundheit,Forma fisica,Fitness
@@ -41,6 +41,15 @@ BLOODTYPE_A,A,A,A,A,A,A,A
 BLOODTYPE_B,B,B,B,B,B,B,B
 BLOODTYPE_AB,AB,AB,AB,AB,AB,AB,AB
 BLOODTYPE_O,O,O,O,O,O,O,O
+,,,,,,,
+STAT_FIRST_NAME,First Name,First Name,First Name,First Name,First Name,First Name,First Name
+STAT_LAST_NAME,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name
+STAT_SURNAME,Surname,Surname,Surname,Surname,Surname,Surname,Surname
+STAT_NICKNAME,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname
+STAT_GENDER,Gender,Gender,Gender,Gender,Gender,Gender,Gender
+STAT_AGE,Age,Age,Age,Age,Age,Age,Age
+STAT_BLOODTYPE,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype
+STAT_DOB,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth
 ,,,,,,,
 GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина,Männlich,Maschio,Masculino
 GENDER_FEMALE,Female,Kobieta,Féminin,Женщина,Weiblich,Femmina,Femenino
@@ -62,3 +71,8 @@ PHONE_APP_INFO,Info,Informacje,Info,Информация,Info,Informazioni,Infor
 PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь,Inventar,Inventario,inventario
 PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет,Internet,Internet,Internet
 PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…,Noch nicht Verfügbar,Non ancora implementato...,Aun no implementado...
+,,,,,,,
+INFO_PROOF_OF_CONCEPT_PREVIEW,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview
+,,,,,,,
+TEST_CHARACTER_FOLLOW,"Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, let's go..."
+TEST_CHARACTER_WAIT,"Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here."
