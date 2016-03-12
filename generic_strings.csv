@@ -1,78 +1,78 @@
-id,en,pl,fr,ru,de,ita,es
-SYSTEM_NEW_GAME,Begin,Rozpocznij,Commencer,Начать игру,Neues Spiel,Inizia,Comenzar
-SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen,Continua,Continuar
-SYSTEM_LOAD,Load,Wczytaj grę,Charger,Загрузить,Laden,Carica,Cargar
-SYSTEM_SAVE,Save,Zapisz grę,Sauvegarder,Сохранить,Speichern,Salva,Guardar
-SYSTEM_OPTIONS,Options,Ustawienia,Options,Настройки,Optionen,Opzioni,Opciones
-SYSTEM_EXTRAS,Extras,Dodatki,Extras,Дополнительно,Extras,Extra,Extras
-SYSTEM_CREDITS,Credits,Autorzy,Crédits,Авторы,Credits,Crediti,Creditos
-SYSTEM_QUIT,Quit,Wyjdź,Quitter,Выйти,Beenden,Esci,Salir
-SYSTEM_LOADING,Loading,Wczytywanie,Chargement,Загрузка,Ladevorgang,Caricamento,Cargando
-SYSTEM_YES,Yes,Tak,Oui,Да,Ja,Si,Si
-SYSTEM_NO,No,Nie,Non,Нет,Nein,No,No
-SYSTEM_OKAY,Okay,OK,OK,Хорошо,Okay,Ok,Ok
-SYSTEM_CANCEL,Cancel,Anuluj,Annuler,Отменить,Abbrechen,Annulla,Cancelar
-SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen,Continua,Continuar
-SYSTEM_SKIP,Skip,Pomiń,Passer,Пропустить,Überspringen,Salta,Saltar
-SYSTEM_LOG,Log,Historia,Log,Журнал,Journal,Storico,Registro
-SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка,Autolesen,Autolettura,Lectura automatica
-SYSTEM_USE,Use,Użyj,Utiliser,Использовать,Benutzen,Usa,Usar
-SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?,Bist du sicher dass du das Spiel Beenden willst?,Sei sicuro di voler uscire?,¿Estás seguro quieres a salir?
-SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить,Bestätigen,Conferma,Confirmar
+id,en,pl,fr,ru,de,ita,es,fi
+SYSTEM_NEW_GAME,Begin,Rozpocznij,Commencer,Начать игру,Neues Spiel,Inizia,Comenzar,Aloita
+SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen,Continua,Continuar,Jatka
+SYSTEM_LOAD,Load,Wczytaj grę,Charger,Загрузить,Laden,Carica,Cargar,Lataa
+SYSTEM_SAVE,Save,Zapisz grę,Sauvegarder,Сохранить,Speichern,Salva,Guardar,Tallenna
+SYSTEM_OPTIONS,Options,Ustawienia,Options,Настройки,Optionen,Opzioni,Opciones,Asetukset
+SYSTEM_EXTRAS,Extras,Dodatki,Extras,Дополнительно,Extras,Extra,Extras,Extrat
+SYSTEM_CREDITS,Credits,Autorzy,Crédits,Авторы,Credits,Crediti,Creditos,Kiitokset
+SYSTEM_QUIT,Quit,Wyjdź,Quitter,Выйти,Beenden,Esci,Salir,Lopeta
+SYSTEM_LOADING,Loading,Wczytywanie,Chargement,Загрузка,Ladevorgang,Caricamento,Cargando,Ladataan
+SYSTEM_YES,Yes,Tak,Oui,Да,Ja,Si,Si,Kyllä
+SYSTEM_NO,No,Nie,Non,Нет,Nein,No,No,Ei
+SYSTEM_OKAY,Okay,OK,OK,Хорошо,Okay,Ok,Ok,Ok
+SYSTEM_CANCEL,Cancel,Anuluj,Annuler,Отменить,Abbrechen,Annulla,Cancelar,Peruuta
+SYSTEM_CONTINUE,Continue,Kontynuuj,Continuer,Продолжить,Fortsetzen,Continua,Continuar,Jatka
+SYSTEM_SKIP,Skip,Pomiń,Passer,Пропустить,Überspringen,Salta,Saltar,Ohita
+SYSTEM_LOG,Log,Historia,Log,Журнал,Journal,Storico,Registro,Historia
+SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автопрокрутка,Autolesen,Autolettura,Lectura automatica,Automaattiluku
+SYSTEM_USE,Use,Użyj,Utiliser,Использовать,Benutzen,Usa,Usar,Käytä
+SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?,Bist du sicher dass du das Spiel Beenden willst?,Sei sicuro di voler uscire?,¿Estás seguro quieres a salir?,Haluatko lopettaa?
+SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить,Bestätigen,Conferma,Confirmar,Vahvista
 ,,,,,,,
-STAT_FIRST_NAME,First Name,Imię,Prénom,Имя,Vorname,Nome,Primer nombre
-STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия,Nachname,Cognome,apellido
-STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище,Spitzname,Soprannome,Apodo
-STAT_GENDER,Gender,Płeć,Sexe,Пол,Geschlecht,Sesso,Genero
-STAT_AGE,Age,Wiek,Âge,Возраст,Alter,Et??,Edad
-STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin,Группа крови,Blutgruppe,Gruppo sanguigno,Tipo de sangre
-STAT_DOB,Date of Birth,Data urodzenia,Date de naissance,Дата рождения,Geburtsdatum,Data di nascita,Fecha de nacimiento
-STAT_STRESS,Stress,Stres,Stress,Напряжённость,Stress,Stato Mentale,Estres
-STAT_CREATIVITY,Creativity,Kreatywność,Créativité,Креативность,Kreativität,Creativit??,Creatividad
-STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence,Интеллект,Intelligenz,Intelligenza,Inteligencia
-STAT_FITNESS,Fitness,Kondycja,Fitness,Спортивность,Gesundheit,Forma fisica,Fitness
-STAT_CHARM,Charm,Wdzięk,Charme,Обаяние,Charme,Fascino,Encanto
-STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité,Чувствительность,Sensibilität,Sensibilit??,Sensibilidad
-STAT_MONEY,Money,Pieniądze,Argent,Деньги,Geld,Soldi,Dinero
-STAT_STAMINA,Stamina,Wytrzymałość,Endurance,Выносливость,Ausdauer,Resistenza fisica,Resistencia
-STAT_LUCK,Luck,Szczęście,Chance,Удача,Glück,Fortuna,Suerte
+STAT_FIRST_NAME,First Name,Imię,Prénom,Имя,Vorname,Nome,Primer nombre,Etunimi
+STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия,Nachname,Cognome,apellido,Sukunimi
+STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище,Spitzname,Soprannome,Apodo,Lempinimi
+STAT_GENDER,Gender,Płeć,Sexe,Пол,Geschlecht,Sesso,Genero,Sukupuoli
+STAT_AGE,Age,Wiek,Âge,Возраст,Alter,Et??,Edad,Ikä
+STAT_BLOODTYPE,Bloodtype,Grupa krwi,Groupe sanguin,Группа крови,Blutgruppe,Gruppo sanguigno,Tipo de sangre,Veriryhmä
+STAT_DOB,Date of Birth,Data urodzenia,Date de naissance,Дата рождения,Geburtsdatum,Data di nascita,Fecha de nacimiento,Syntymäpäivä
+STAT_STRESS,Stress,Stres,Stress,Напряжённость,Stress,Stato Mentale,Estres,Stressi
+STAT_CREATIVITY,Creativity,Kreatywność,Créativité,Креативность,Kreativität,Creativit??,Creatividad,Luovuus
+STAT_INTELLIGENCE,Intelligence,Inteligencja,Intelligence,Интеллект,Intelligenz,Intelligenza,Inteligencia,Älykkyys
+STAT_FITNESS,Fitness,Kondycja,Fitness,Спортивность,Gesundheit,Forma fisica,Fitness,Kunto
+STAT_CHARM,Charm,Wdzięk,Charme,Обаяние,Charme,Fascino,Encanto,Viehätysvoima
+STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité,Чувствительность,Sensibilität,Sensibilit??,Sensibilidad,Herkkyys
+STAT_MONEY,Money,Pieniądze,Argent,Деньги,Geld,Soldi,Dinero,Raha
+STAT_STAMINA,Stamina,Wytrzymałość,Endurance,Выносливость,Ausdauer,Resistenza fisica,Resistencia,Kestävyys
+STAT_LUCK,Luck,Szczęście,Chance,Удача,Glück,Fortuna,Suerte,Onni
 ,,,,,,,
-BLOODTYPE_A,A,A,A,A,A,A,A
-BLOODTYPE_B,B,B,B,B,B,B,B
-BLOODTYPE_AB,AB,AB,AB,AB,AB,AB,AB
-BLOODTYPE_O,O,O,O,O,O,O,O
+BLOODTYPE_A,A,A,A,A,A,A,A,A
+BLOODTYPE_B,B,B,B,B,B,B,B,B
+BLOODTYPE_AB,AB,AB,AB,AB,AB,AB,AB,AB
+BLOODTYPE_O,O,O,O,O,O,O,O,O
 ,,,,,,,
-STAT_FIRST_NAME,First Name,First Name,First Name,First Name,First Name,First Name,First Name
-STAT_LAST_NAME,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name
-STAT_SURNAME,Surname,Surname,Surname,Surname,Surname,Surname,Surname
-STAT_NICKNAME,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname
-STAT_GENDER,Gender,Gender,Gender,Gender,Gender,Gender,Gender
-STAT_AGE,Age,Age,Age,Age,Age,Age,Age
-STAT_BLOODTYPE,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype
-STAT_DOB,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth
+STAT_FIRST_NAME,First Name,First Name,First Name,First Name,First Name,First Name,First Name,First Name
+STAT_LAST_NAME,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name
+STAT_SURNAME,Surname,Surname,Surname,Surname,Surname,Surname,Surname,Surname
+STAT_NICKNAME,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname,Nickname
+STAT_GENDER,Gender,Gender,Gender,Gender,Gender,Gender,Gender,Gender
+STAT_AGE,Age,Age,Age,Age,Age,Age,Age,Age
+STAT_BLOODTYPE,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype
+STAT_DOB,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth
 ,,,,,,,
-GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина,Männlich,Maschio,Masculino
-GENDER_FEMALE,Female,Kobieta,Féminin,Женщина,Weiblich,Femmina,Femenino
+GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина,Männlich,Maschio,Masculino,Mies
+GENDER_FEMALE,Female,Kobieta,Féminin,Женщина,Weiblich,Femmina,Femenino,Nainen
 ,,,,,,,
-PHONE_PROVIDER_BNET,bNet,bNet,bNet,bNet,bNet,bNet,bNet
-PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres,Настройки,Einstellungen,Impostazioni,Configuraciones
-PHONE_APP_PHONE,Phone,Telefon,Téléphone,Телефон,Handy,Telefono,Telefono
-PHONE_APP_CONTACTS,Contacts,Kontakty,Contacts,Контакты,Kontakte,Contatti,Contactos
-PHONE_APP_CAMERA,Camera,Aparat,Camera,Камера,Kamera,Fotocamera,Camara
-PHONE_APP_CALENDER,Calender,Kalendarz,Calendrier,Календарь,Kalender,Calendario,Calendario
-PHONE_APP_CLOCK,Clock,Zegar,Horloge,Часы,Uhr,Orologio,Reloj
-PHONE_APP_DOWNLOAD,Download,Pobrane,Téléchargements,Загрузки,Download,Download,descargas
-PHONE_APP_GALLERY,Gallery,Galeria,Galerie,Галерея,Gallerie,Galleria,Galeria
-PHONE_APP_MAP,Map,Mapa,Carte,Карта,Karte,Mappa,Mapa
-PHONE_APP_MUSIC,Music,Muzyka,Musique,Музыка,Musik,Musica,Musica
-PHONE_APP_SMS,SMS,Wiadomości,SMS,СМС,SMS,SMS,SMS
-PHONE_APP_EMAIL,Email,Poczta,Email,Почта,Email,Email,Email
-PHONE_APP_INFO,Info,Informacje,Info,Информация,Info,Informazioni,Informacion
-PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь,Inventar,Inventario,inventario
-PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет,Internet,Internet,Internet
-PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…,Noch nicht Verfügbar,Non ancora implementato...,Aun no implementado...
+PHONE_PROVIDER_BNET,bNet,bNet,bNet,bNet,bNet,bNet,bNet,bNet
+PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres,Настройки,Einstellungen,Impostazioni,Configuraciones,Asetukset
+PHONE_APP_PHONE,Phone,Telefon,Téléphone,Телефон,Handy,Telefono,Telefono,Puhelin
+PHONE_APP_CONTACTS,Contacts,Kontakty,Contacts,Контакты,Kontakte,Contatti,Contactos,Yhteystiedot
+PHONE_APP_CAMERA,Camera,Aparat,Camera,Камера,Kamera,Fotocamera,Camara,Kamera
+PHONE_APP_CALENDER,Calender,Kalendarz,Calendrier,Календарь,Kalender,Calendario,Calendario,Kalenteri
+PHONE_APP_CLOCK,Clock,Zegar,Horloge,Часы,Uhr,Orologio,Reloj,Kello
+PHONE_APP_DOWNLOAD,Download,Pobrane,Téléchargements,Загрузки,Download,Download,descargas,Lataa
+PHONE_APP_GALLERY,Gallery,Galeria,Galerie,Галерея,Gallerie,Galleria,Galeria,Galleria
+PHONE_APP_MAP,Map,Mapa,Carte,Карта,Karte,Mappa,Mapa,Kartta
+PHONE_APP_MUSIC,Music,Muzyka,Musique,Музыка,Musik,Musica,Musica,Musiikki
+PHONE_APP_SMS,SMS,Wiadomości,SMS,СМС,SMS,SMS,SMS,Tekstiviesti
+PHONE_APP_EMAIL,Email,Poczta,Email,Почта,Email,Email,Email,Sähköposti
+PHONE_APP_INFO,Info,Informacje,Info,Информация,Info,Informazioni,Informacion,Tietoa
+PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь,Inventar,Inventario,inventario,Tavaraluettelo
+PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет,Internet,Internet,Internet,Internet
+PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…,Noch nicht Verfügbar,Non ancora implementato...,Aun no implementado...,Ei vielä lisätty...
 ,,,,,,,
-INFO_PROOF_OF_CONCEPT_PREVIEW,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview
+INFO_PROOF_OF_CONCEPT_PREVIEW,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview
 ,,,,,,,
-TEST_CHARACTER_FOLLOW,"Okay, let's go...","Okay, let's go...","Okay, Allons-y...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, let's go..."
-TEST_CHARACTER_WAIT,"Sure, I'll wait here.","Sure, I'll wait here.","Bien sur, j'attendrais ici.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here."
+TEST_CHARACTER_FOLLOW,"Okay, let's go...","Okay, let's go...","Okay, Allons-y...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okei, mennään..."
+TEST_CHARACTER_WAIT,"Sure, I'll wait here.","Sure, I'll wait here.","Bien sur, j'attendrais ici.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Selvä, odotan täällä."
