@@ -19,7 +19,7 @@ SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автоп
 SYSTEM_USE,Use,Użyj,Utiliser,Использовать,Benutzen,Usa,Usar,Käytä
 SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?,Bist du sicher dass du das Spiel Beenden willst?,Sei sicuro di voler uscire?,¿Está seguro que desea salir?,Haluatko lopettaa?
 SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить,Bestätigen,Conferma,Confirmar,Vahvista
-,,,,,,,
+,,,,,,,,
 STAT_FIRST_NAME,First Name,Imię,Prénom,Имя,Vorname,Nome,Nombre,Etunimi
 STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия,Nachname,Cognome,Apellido,Sukunimi
 STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище,Spitzname,Soprannome,Apodo,Lempinimi
