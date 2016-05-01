@@ -19,7 +19,7 @@ SYSTEM_AUTOREAD,Autoread,Automatyczne przewijanie,Lecture automatique,Автоп
 SYSTEM_USE,Use,Użyj,Utiliser,Использовать,Benutzen,Usa,Usar,Käytä
 SYSTEM_QUITMESSAGE,Are you sure you want to quit?,Czy na pewno chcesz zakończyć grę?,Es-tu sur de vouloir quitter?,что хотите выйти?,Bist du sicher dass du das Spiel Beenden willst?,Sei sicuro di voler uscire?,¿Está seguro que desea salir?,Haluatko lopettaa?
 SYSTEM_CONFIRM,Confirm,Potwierdź,Confirmer,Подтвердить,Bestätigen,Conferma,Confirmar,Vahvista
-,,,,,,,
+,,,,,,,,
 STAT_FIRST_NAME,First Name,Imię,Prénom,Имя,Vorname,Nome,Nombre,Etunimi
 STAT_SURNAME,Surname,Nazwisko,Nom de famille,Фамилия,Nachname,Cognome,Apellido,Sukunimi
 STAT_NICKNAME,Nickname,Przezwisko,Surnom,Прозвище,Spitzname,Soprannome,Apodo,Lempinimi
@@ -36,12 +36,12 @@ STAT_SENSITIVITY,Sensitivity,Wrażliwość,Sensibilité,Чувствительн
 STAT_MONEY,Money,Pieniądze,Argent,Деньги,Geld,Soldi,Dinero,Raha
 STAT_STAMINA,Stamina,Wytrzymałość,Endurance,Выносливость,Ausdauer,Resistenza fisica,Resistencia,Kestävyys
 STAT_LUCK,Luck,Szczęście,Chance,Удача,Glück,Fortuna,Suerte,Onni
-,,,,,,,
+,,,,,,,,
 BLOODTYPE_A,A,A,A,A,A,A,A,A
 BLOODTYPE_B,B,B,B,B,B,B,B,B
 BLOODTYPE_AB,AB,AB,AB,AB,AB,AB,AB,AB
 BLOODTYPE_O,O,O,O,O,O,O,O,O
-,,,,,,,
+,,,,,,,,
 STAT_FIRST_NAME,First Name,First Name,First Name,First Name,First Name,First Name,First Name,First Name
 STAT_LAST_NAME,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name,Last Name
 STAT_SURNAME,Surname,Surname,Surname,Surname,Surname,Surname,Surname,Surname
@@ -50,10 +50,10 @@ STAT_GENDER,Gender,Gender,Gender,Gender,Gender,Gender,Gender,Gender
 STAT_AGE,Age,Age,Age,Age,Age,Age,Age,Age
 STAT_BLOODTYPE,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype,Bloodtype
 STAT_DOB,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth,Date of Birth
-,,,,,,,
+,,,,,,,,
 GENDER_MALE,Male,Mężczyzna,Masculin,Мужчина,Männlich,Maschio,Macho,Mies
 GENDER_FEMALE,Female,Kobieta,Féminin,Женщина,Weiblich,Femmina,Hembra,Nainen
-,,,,,,,
+,,,,,,,,
 PHONE_PROVIDER_BNET,bNet,bNet,bNet,bNet,bNet,bNet,bNet,bNet
 PHONE_APP_SETTINGS,Settings,Ustawienia,Paramètres,Настройки,Einstellungen,Impostazioni,Configuración,Asetukset
 PHONE_APP_PHONE,Phone,Telefon,Téléphone,Телефон,Handy,Telefono,Teléfono,Puhelin
@@ -71,8 +71,8 @@ PHONE_APP_INFO,Info,Informacje,Info,Информация,Info,Informazioni,Infor
 PHONE_APP_INVENTORY,Inventory,Ekwipunek,Inventaire,Инвентарь,Inventar,Inventario,inventario,Tavaraluettelo
 PHONE_APP_INTERNET,Internet,Internet,Internet,Интернет,Internet,Internet,Internet,Internet
 PHONE_APP_UNIMPLEMENTED,Not Yet Implemented...,Niezaimplementowane...,Pas encore implémenté...,Пока не реализовано…,Noch nicht Verfügbar,Non ancora implementato...,Aún no implementado...,Ei vielä lisätty...
-,,,,,,,
+,,,,,,,,
 INFO_PROOF_OF_CONCEPT_PREVIEW,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview,Proof of Concept Preview
-,,,,,,,
+,,,,,,,,
 TEST_CHARACTER_FOLLOW,"Okay, let's go...","Okay, let's go...","Okay, Allons-y...","Okay, let's go...","Okay, let's go...","Okay, let's go...","Okay, vámonos...","Okei, mennään..."
 TEST_CHARACTER_WAIT,"Sure, I'll wait here.","Sure, I'll wait here.","Bien sur, j'attendrais ici.","Sure, I'll wait here.","Sure, I'll wait here.","Sure, I'll wait here.","Seguro, te esperaré aquí.","Selvä, odotan täällä."
